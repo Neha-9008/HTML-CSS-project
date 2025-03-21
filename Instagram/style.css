@@ -1,6 +1,4 @@
-/***********************
-Created by Web Xplained
-***********************/
+
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Pacifico&display=swap');
 *, *::after, *::before {
@@ -203,9 +201,7 @@ footer small {
     font-size: 12px;
 }
 
-/***************************
-Project tutorial link styles
-***************************/
+
 
 #footer {
     background-color: #222;
@@ -233,6 +229,4 @@ Project tutorial link styles
     text-decoration: none;
 }
 
-/***********************
-Created by Web Xplained
-***********************/
+
